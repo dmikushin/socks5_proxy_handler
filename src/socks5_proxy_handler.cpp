@@ -1,5 +1,5 @@
-#include "SOCKS5_proxy_handle.hpp"
-#include "SOCKS5_helpers.hpp"
+#include "socks5_proxy_handler.hpp"
+#include "socks5_proxy_helpers.hpp"
 #include <cstdint>
 #include <vector>
 #include <cassert>

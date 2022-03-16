@@ -1,5 +1,6 @@
 #pragma once
-#include "SOCKS5_helpers.hpp"
+
+#include "socks5_proxy_helpers.hpp"
 #include <cstdint>
 #include <memory>
 
